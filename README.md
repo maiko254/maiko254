@@ -19,6 +19,12 @@ I thrive in backend development, optimizing systems for scalability and performa
 * 📂 [Github Repository](https://github.com/maiko254/easyrentals "easyrentals")
 
 A web application that allows users to browse, search, and manage rental listings efficiently.
+
+### 🏠 AirBnB Clone
+**Role**: Backend Developer
+* 📂 [GitHub Repository](https://github.com/maiko254/AirBnB_clone_v4 "AirBnB Clone")
+
+A full-featured AirBnB clone built with a robust backend and dynamic frontend capabilities.
 <!--
 **maiko254/maiko254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
