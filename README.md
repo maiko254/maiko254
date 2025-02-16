@@ -7,9 +7,9 @@ I thrive in backend development, optimizing systems for scalability and performa
 
 ## 🛠️ Technologies & Tools
 
-**Languages**: C, Python, Javascript, Java, HTML, CSS, Bash
-**Frameworks**: React, Node.js, Next.js, Spring Boot
-**Databases**: MySQL, MongoDB, Redis
+* **Languages**: C, Python, Javascript, Java, HTML, CSS, Bash
+* **Frameworks**: React, Node.js, Next.js, Spring Boot
+* **Databases**: MySQL, MongoDB, Redis
 
 
 ## 📌 Featured Projects
