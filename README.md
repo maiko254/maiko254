@@ -25,6 +25,14 @@ A web application that allows users to browse, search, and manage rental listing
 * 📂 [GitHub Repository](https://github.com/maiko254/AirBnB_clone_v4 "AirBnB Clone")
 
 A full-featured AirBnB clone built with a robust backend and dynamic frontend capabilities.
+
+
+### 🌟 What Drives Me
+
+* Solving complex problems with elegant solutions
+* Building software that makes an impact
+* Contributing to open source projects
+* Continous learning and collaboration
 <!--
 **maiko254/maiko254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
