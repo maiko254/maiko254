@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-I'm a passionate software engineer and a graduating student of the ALX Software Engineering Program. My journey into tech started here, and ever since, I've been dedicated to building impactful projects that enhance lives—whether through open-source contributions, personal projects that improve efficiency, or professional collaborations.
+I'm a passionate software engineer and a graduate of the ALX Software Engineering Program. My journey into tech started here, and ever since, I've been dedicated to building impactful projects that enhance lives—whether through open-source contributions, personal projects that improve efficiency, or professional collaborations.
 
 I thrive in backend development, optimizing systems for scalability and performance, but I also enjoy crafting seamless full-stack experiences.
 
