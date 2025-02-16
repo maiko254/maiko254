@@ -16,7 +16,7 @@ I thrive in backend development, optimizing systems for scalability and performa
 
 ### 🏡 EasyRentals - Rental Listing Web App
 **Role**: Full Stack Developer
-📂 [Github Repository](https://github.com/maiko254/easyrentals "easyrentals")
+* 📂 [Github Repository](https://github.com/maiko254/easyrentals "easyrentals")
 
 A web application that allows users to browse, search, and manage rental listings efficiently.
 <!--
